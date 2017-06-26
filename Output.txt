@@ -1,0 +1,63 @@
+Press
+	 0 - To display choice option
+	 1 - To display list of grocery items
+	 2 - To add item to the grocery list
+	 3 - To modify item in the grocery list
+	 4 - To remove item in the grocery list
+	 5 - To search item in the grocery list
+	 6 - To quit the application
+Select your choice : 
+2
+Enter Item to add : Milk
+Select your choice : 2
+Enter Item to add : 4
+Select your choice : 0
+	 Press
+	 0 - To display choice option
+	 1 - To display list of grocery items
+	 2 - To add item to the grocery list
+	 3 - To modify item in the grocery list
+	 4 - To remove item in the grocery list
+	 5 - To search item in the grocery list
+	 6 - To quit the application
+Select your choice : 2
+Enter Item to add : Chicken
+Select your choice : 2
+Enter Item to add : Spices
+Select your choice : 2
+Enter Item to add : Salt
+Select your choice : 2
+Enter Item to add : Tomato
+Select your choice : 2
+Enter Item to add : Onions
+Select your choice : 2
+Enter Item to add : GingerGarlic
+Select your choice : 1
+You have 8 number of items in your grocery list
+1. Milk
+2. 4
+3. Chicken
+4. Spices
+5. Salt
+6. Tomato
+7. Onions
+8. GingerGarlic
+Select your choice : 5
+Enter item to search :Chicken
+Found Chickenin your grocery list
+Select your choice : 5
+Enter item to search : Beef
+ Beef is not found in the grocery list
+Select your choice : 4
+Enter the position to be removed : 2
+Item at position 2 has been removed
+Select your choice : 1
+You have 7 number of items in your grocery list
+1. Milk
+2. Chicken
+3. Spices
+4. Salt
+5. Tomato
+6. Onions
+7. GingerGarlic
+Select your choice : 
